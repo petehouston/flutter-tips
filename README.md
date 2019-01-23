@@ -6,3 +6,4 @@ My collection of Flutter development tips.
 2. [Receive returning data from new screen](/receive-data-from-new-screen)
 3. [Make fullscreen background image in Flutter](/make-fullscreen-image)
 4. [Simple ListView in Flutter](/simple-listview)
+5. [Create splash screen in Flutter](/create-splash-screen)

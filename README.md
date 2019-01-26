@@ -7,3 +7,4 @@ My collection of Flutter development tips.
 3. [Make fullscreen background image in Flutter](/make-fullscreen-image)
 4. [Simple ListView in Flutter](/simple-listview)
 5. [Create splash screen in Flutter](/create-splash-screen)
+6. [Working with RaisedButton](/raisedbutton)

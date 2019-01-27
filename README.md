@@ -8,3 +8,4 @@ My collection of Flutter development tips.
 4. [Simple ListView in Flutter](/simple-listview)
 5. [Create splash screen in Flutter](/create-splash-screen)
 6. [Working with RaisedButton](/raisedbutton)
+7. [Working with FloatingActionButton](/floatingactionbutton)

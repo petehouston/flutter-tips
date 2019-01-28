@@ -1,5 +1,8 @@
 # Make cute floating ghost in Flutter
 
+Read full tutorial here https://fluttermaster.com/transform-floatingactionbutton-into-a-cute-little-ghost/
+
+You can customize with any emojis.
 
 **Cute ghost**
 
